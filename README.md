@@ -1,3 +1,3 @@
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg?max-age=10800" alt="Metrics">
 </picture>
